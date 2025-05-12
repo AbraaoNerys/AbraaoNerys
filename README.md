@@ -14,7 +14,7 @@ Sou desenvolvedor de software com experiência em várias tecnologias, incluindo
 
 Alguns dos projetos em que estou trabalhando atualmente:
 
-- [Projeto 1](https://github.com/seunome/projeto1) - ptojeto em python.
+- [Projeto 1] (https://github.com/AbraaoNerys/projeto_calculadora-python.git) - ptojeto em python.
 - [Projeto 2](https://github.com/seunome/projeto2) - Descrição do projeto.
 - [Projeto 3](https://github.com/seunome/projeto3) - Descrição do projeto.
 

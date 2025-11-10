@@ -14,7 +14,8 @@ Sou desenvolvedor de software com experiência em várias tecnologias, incluindo
 
 Alguns dos projetos em que estou trabalhando atualmente:
 
-- [Projeto 1]() - ptojeto em python.
+- [Projeto 1](https://github.com/AbraaoNerys/Hackaton) - EducaIA
+- Um projeto que transforma a educação dos estudantes, impulsionando seu crescimento pessoal e profissional com o apoio de um tutor IA que caminha ao seu lado até a realização dos seus sonhos.
 - [Projeto 2]() - Descrição do projeto.
 - [Projeto 3]() - Descrição do projeto.
 

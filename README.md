@@ -5,7 +5,7 @@ Sou desenvolvedor de software com experiência em várias tecnologias, incluindo
 
 ## 🚀 Tecnologias & Ferramentas
 
-- 🖥️ **Linguagens**: html, css, Python, JavaScript,
+- 🖥️ **Linguagens**:Java, Python ,  
 - ⚙️ **Ferramentas**: Git, Docker, Kubernetes, VS Code, IntelliJ
 - 🌐 **Frameworks**: React, Node.js, Express, Django, Flask
 - 📚 **Bases de dados**: , MongoDB, MySQL
@@ -14,9 +14,9 @@ Sou desenvolvedor de software com experiência em várias tecnologias, incluindo
 
 Alguns dos projetos em que estou trabalhando atualmente:
 
-- [Projeto 1] (https://github.com/AbraaoNerys/projeto_calculadora-python.git) - ptojeto em python.
-- [Projeto 2](https://github.com/seunome/projeto2) - Descrição do projeto.
-- [Projeto 3](https://github.com/seunome/projeto3) - Descrição do projeto.
+- [Projeto 1]() - ptojeto em python.
+- [Projeto 2]() - Descrição do projeto.
+- [Projeto 3]() - Descrição do projeto.
 
 ## 📈 Estatísticas do GitHub
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

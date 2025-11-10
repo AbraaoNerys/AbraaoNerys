@@ -27,6 +27,8 @@ Alguns dos projetos em que estou trabalhando atualmente:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMacedoB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

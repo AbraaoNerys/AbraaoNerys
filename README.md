@@ -5,7 +5,7 @@ Sou desenvolvedor de software com experiência em várias tecnologias, incluindo
 
 ## 🚀 Tecnologias & Ferramentas
 
-- 🖥️ **Linguagens**: Java, Python ,  
+- 🖥️ **Linguagens**:  Python, Java, TypeScript,   
 - ⚙️ **Ferramentas**: Git, Docker, Kubernetes, VS Code, IntelliJ
 - 🌐 **Frameworks**: React, Node.js, Express, Django, Flask
 - 📚 **Bases de dados**: , MongoDB, MySQL

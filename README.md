@@ -28,7 +28,7 @@ Foco em educação acessível e escalável
 Arquitetura moderna voltada para impacto social 
 
 - [Projeto 2]() SGE – Sistema de Gerenciamento Empresarial
-- 
+  
 -Sistema criado para microempreendedores individuais (MEIs) com o objetivo de facilitar a gestão do negócio na palma da mão.
 O SGE fornece uma visão clara e estratégica da empresa, permitindo ao empreendedor tomar decisões baseadas em dados reais.
 

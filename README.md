@@ -15,10 +15,57 @@ Sou desenvolvedor de software com experiência em várias tecnologias, incluindo
 Alguns dos projetos em que estou trabalhando atualmente:
 
 - [Projeto 1](https://github.com/AbraaoNerys/Hackaton) - EducaIA
-- Um projeto que transforma a educação dos estudantes, impulsionando seu crescimento pessoal e profissional com o apoio de um tutor IA que caminha ao seu lado até a realização dos seus sonhos.
-- [Projeto 2]() - Descrição do projeto.
-- [Projeto 3]() - Descrição do projeto.
+  
+-Plataforma educacional desenvolvida durante um hackathon com o objetivo de transformar a experiência de aprendizagem dos estudantes.
+O EducaIA utiliza um tutor baseado em Inteligência Artificial para acompanhar o aluno de forma personalizada, auxiliando no desenvolvimento acadêmico e profissional, incentivando autonomia, constância nos estudos e crescimento individual.
 
+-Destaques do projeto:
+
+Tutor IA personalizado
+
+Foco em educação acessível e escalável
+
+Arquitetura moderna voltada para impacto social 
+
+- [Projeto 2]() SGE – Sistema de Gerenciamento Empresarial
+- 
+-Sistema criado para microempreendedores individuais (MEIs) com o objetivo de facilitar a gestão do negócio na palma da mão.
+O SGE fornece uma visão clara e estratégica da empresa, permitindo ao empreendedor tomar decisões baseadas em dados reais.
+
+Funcionalidades principais:
+
+Controle de estoque
+
+Análise de vendas
+
+Desempenho de vendedores
+
+Identificação de produtos mais e menos vendidos
+
+Análise de lucro e prejuízo
+
+O projeto foi pensado para resolver problemas reais de pequenos negócios, com foco em simplicidade, usabilidade e eficiência.
+
+
+
+- [Projeto 3]() Projeto de Extensão – Plataforma para Barbearias
+  
+- Projeto desenvolvido em conjunto com colegas, com foco em automação de processos para barbearias, um setor frequentemente negligenciado no uso de tecnologia.
+A proposta é oferecer uma plataforma acessível e prática, permitindo que barbeiros e barbearias modernizem sua operação e melhorem a experiência do cliente.
+
+Principais recursos:
+
+Agendamento online de horários
+
+Pagamentos antecipados
+
+Assinatura de planos mensais
+
+Gestão do dia a dia do negócio
+
+O projeto une tecnologia, praticidade e impacto direto no negócio local, promovendo transformação digital de forma simples.
+
+  
 ## 📈 Estatísticas do GitHub
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)

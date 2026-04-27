@@ -17,9 +17,8 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor back-end com foco em **Java** e **JavaScript/TypeScript**, apaixonado por construir sistemas que resolvem problemas reais. Tenho experiência na construção de APIs robustas, integração de serviços e arquitetura de aplicações escaláveis.
-
-Acredito que bom software começa com código limpo, bem estruturado e orientado a valor real para o usuário. Estou sempre buscando evoluir, seja aprofundando conhecimentos técnicos ou colaborando em projetos com impacto social.
+Sou desenvolvedor back-end com foco em *Java* e *JavaScript/TypeScript*. Tenho experiência prática no desenvolvimento de APIs REST, modelagem de banco de dados relacional e integração de serviços — sempre priorizando código limpo, organizado e de fácil manutenção.
+Acredito que boas soluções nascem da combinação entre técnica sólida e entendimento real do problema. Estou em busca de um ambiente colaborativo onde possa contribuir, aprender e crescer profissionalmente.
 
 ```java
 public class AbraãoDavi {
@@ -104,6 +103,25 @@ Projeto desenvolvido em equipe com foco em **automação de processos para barbe
 
 ---
 
+🧾 sped-credit-pipeline — Pipeline Fiscal PIS/COFINS
+
+Python · XML Parsing · ThreadPoolExecutor · CI/CD · openpyxl
+
+Pipeline automatizado desenvolvido para escritórios de contabilidade, com o objetivo de eliminar trabalho manual na apuração de créditos fiscais de PIS/COFINS.
+O sistema lê XMLs de Notas Fiscais Eletrônicas (NF-e) — arquivos soltos ou dentro de .zip — e gera automaticamente planilhas no layout SC_A100_A170, prontas para importação no SPED Contribuições.
+Destaques técnicos:
+
+⚡ Processamento paralelo de múltiplos XMLs com ThreadPoolExecutor
+🛡️ Proteção contra ZipSlip na extração de arquivos compactados
+💾 Cache de metadados para evitar reprocessamento desnecessário
+🏢 Suporte multi-empresa gerenciado via CLI
+✅ Compatível com NF-e 3.x e 4.0
+🧪 19 testes automatizados com CI/CD via GitHub Actions
+
+
+Projeto real desenvolvido para contexto profissional — resolve um problema concreto e recorrente na rotina contábil de empresas brasileiras.
+
+---
 ## 📈 GitHub Stats
 
 <div align="center">

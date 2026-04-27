@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abraão--davi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abra%C3%A3o-davi-nerys-frutuoso-692583213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abraão--davi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abra%C3%A3onerys/)
 [![Email](https://img.shields.io/badge/Email-abraaonerysfrutuoso123@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:abraaonerysfrutuoso123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AbraaoNerys-181717?style=flat-square&logo=github)](https://github.com/AbraaoNerys)
 

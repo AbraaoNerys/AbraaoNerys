@@ -17,51 +17,41 @@ Estudante de Ciência da Computação (UNIESP, 2025–2028), com experiência em
 
 ## Projetos
 
-# EducaAI
+### EducaAI (hackathon)
 
-Plataforma educacional que analisa boletins escolares em PDF e oferece um tutor de IA personalizado. Projeto desenvolvido em equipe em um hackathon de impacto patrocinado pela OpenAI.
+Plataforma educacional que analisa boletins escolares em PDF e oferece um tutor de IA personalizado. Desenvolvida em equipe em um hackathon de impacto patrocinado pela OpenAI.
 
-## Visão geral
+Como funciona: o aluno envia o boletim em PDF, o sistema extrai as notas, gera uma análise de desempenho e disponibiliza um chat com IA que tira dúvidas e monta um plano de estudos.
 
-O aluno envia o boletim em PDF. O sistema extrai as notas, gera uma análise de desempenho e disponibiliza um chat com tutor de IA que tira dúvidas e monta um plano de estudos personalizado.
+Minha participação: desenvolvimento da API em FastAPI, com os endpoints de upload e análise de documentos e de chat com o tutor de IA.
 
-## Funcionalidades
+Stack: Python, FastAPI, LangChain, OpenAI API, Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma.
 
-- Upload e análise automática de boletins em PDF
-- Extração de notas e geração de insights sobre o desempenho acadêmico
-- Chat com tutor de IA para tirar dúvidas e criar planos de estudo
-- Endpoints REST para upload e interação via chat
+[Repositório](https://github.com/AbraaoNerys/Hackaton)
 
-## Stack
+### Landing page para espaço corporativo (protótipo)
 
-| Camada | Tecnologias |
-|---|---|
-| Front-end | Next.js 16, React 19, TypeScript, Tailwind CSS |
-| Back-end | Python, FastAPI, LangChain |
-| IA | OpenAI API |
-| Banco de dados | PostgreSQL, Prisma |
+Landing page responsiva para uma empresa de aluguel de salas de reunião e escritórios privativos.
 
-## Endpoints
+Como funciona: página única que apresenta o espaço, os ambientes, as comodidades e a localização. Um botão de contato leva o visitante direto ao WhatsApp da empresa para o atendimento.
 
-- `POST /api/upload-document`: recebe o PDF e retorna os dados do aluno e a análise de desempenho.
-- `POST /api/chat`: envia mensagens ao tutor de IA e retorna respostas contextualizadas.
+O que eu fiz: desenvolvimento completo da página, do layout ao código.
+- Layout responsivo para celular e computador
+- Conteúdo separado do código, para atualizar textos sem mexer na lógica
+- Configuração por variáveis de ambiente, como o número de contato
+- Verificações de qualidade com ESLint e TypeScript
+- Execução em container com Docker
 
-## Como executar
+Stack: Next.js (App Router), React, TypeScript, Tailwind CSS, Docker.
 
-[adicionar: pré-requisitos, instalação, variáveis de ambiente e comandos para rodar o front-end e a API]
+## Freelance
 
-## Equipe
+Desenvolvo landing pages para negócios de espaços corporativos, como coworking, salas de reunião e escritórios compartilhados.
 
-| Nome | Responsabilidade |
-|---|---|
-| Abraão Davi Nerys Frutuoso | API em FastAPI (upload e análise de documentos, chat) |
-| Matheus Henrique Ramalho de Andrade | [função] |
-| Marcell Bruno Sousa e Silva | [função] |
+O que entrego:
+- Página responsiva, organizada e pronta para publicação
+- Botão de contato integrado ao WhatsApp
+- Conteúdo fácil de atualizar
+- Código organizado e documentado
 
-### Plataforma para barbearias (projeto de extensão)
-
-[completar no Bloco 5]
-
-### Sistema de gerenciamento para MEIs (projeto acadêmico)
-
-[completar no Bloco 5]
+Contato: [e-mail](mailto:abraaonerysfrutuoso123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abraaonerys)
